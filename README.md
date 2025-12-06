@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DEALS one-word domains still available to buy.
 
-This dataset contains 4,450 .DEALS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,445 .DEALS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DEALS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=deals-oneword-domains&utm_content=description.top) (4,454) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
