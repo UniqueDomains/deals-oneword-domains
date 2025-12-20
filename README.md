@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DEALS one-word domains still available to buy.
 
-This dataset contains 8,892 .DEALS one word domains with availability, attractiveness and demand scores.
+This dataset contains 8,895 .DEALS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DEALS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=deals-oneword-domains&utm_content=description.top) (8,891) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.DEALS one word domain
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/deals-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/deals-oneword-domains/blob/main/deals.csv"><b>⬇️ CSV (8.89K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/deals-oneword-domains/blob/main/deals.json"><b>⬇️ JSON (8.89K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/deals-oneword-domains/blob/main/deals.csv"><b>⬇️ CSV (8.9K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/deals-oneword-domains/blob/main/deals.json"><b>⬇️ JSON (8.9K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=deals-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (8.89K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -45,7 +45,7 @@ If you want to search & filters the complete database of [.DEALS one word domain
 | abiding.deals    | available | 106      | 5%     | 7      |           |         |         |
 | abient.deals     | available | 54       | 1%     | 6      |           |         |         |
 | ability.deals    | available | 92       | 15%    | 7      |           |         |         |
-| abit.deals       | available | 66       | 12%    | 5      |           |         |         |
+| abit.deals       | available | 68       | 12%    | 5      |           |         |         |
 | abject.deals     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.deals     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.deals  | available | 78       | 1%     | 9      |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.DEALS one word domain
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/deals-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/deals-oneword-domains/blob/main/deals.csv"><b>⬇️ CSV (8.89K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/deals-oneword-domains/blob/main/deals.json"><b>⬇️ JSON (8.89K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/deals-oneword-domains/blob/main/deals.csv"><b>⬇️ CSV (8.9K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/deals-oneword-domains/blob/main/deals.json"><b>⬇️ JSON (8.9K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=deals-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (8.89K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [.DEALS one word domain
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
