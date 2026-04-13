@@ -64,22 +64,22 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| content.deals  | available | $5.99     | $50.99        | 138            | 40     | 7      | name.com          |
-| over.deals     | resell    | $5.99     | $50.99        | 80             | 25     | 4      | Porkbun LLC       |
-| design.deals   | premium   | $250      | $250          | 108            | 50     | 6      | name.com          |
 | unity.deals    | available | $5.99     | $50.99        | 70             | 40     | 5      | name.com          |
+| over.deals     | resell    | $5.99     | $50.99        | 80             | 25     | 4      | Porkbun LLC       |
+| design.deals   | premium   | $250      | $250          | 108            | 49     | 6      | name.com          |
+| content.deals  | available | $5.99     | $50.99        | 138            | 39     | 7      | name.com          |
 | audio.deals    | resell    | —         | —             | 90             | 99     | 5      | GoDaddy.com, LLC  |
 | clear.deals    | premium   | $82.50    | $82.50        | 90             | 49     | 5      | name.com          |
-| eternal.deals  | available | $5.99     | $50.99        | 92             | 39     | 7      | name.com          |
+| gather.deals   | available | $5.99     | $50.99        | 96             | 39     | 6      | name.com          |
 | easy.deals     | resell    | —         | —             | 84             | 68     | 4      | Porkbun LLC       |
 | all.deals      | premium   | $1,000    | $1,000        | 88             | 48     | 3      | name.com          |
-| research.deals | available | $51.98    | —             | 92             | 39     | 8      | namecheap         |
+| eternal.deals  | available | $5.99     | $50.99        | 92             | 39     | 7      | name.com          |
 | flow.deals     | resell    | —         | —             | 96             | 67     | 4      | NameCheap, Inc.   |
 | creative.deals | premium   | $123.75   | $123.75       | 92             | 45     | 8      | name.com          |
-| shadow.deals   | available | $5.99     | —             | 60             | 39     | 6      | name.com          |
+| research.deals | available | $51.98    | —             | 92             | 39     | 8      | namecheap         |
 | now.deals      | resell    | —         | —             | 78             | 66     | 3      | Sav.com, LLC      |
 | star.deals     | premium   | $250      | $250          | 86             | 44     | 4      | name.com          |
-| gather.deals   | available | $5.99     | $50.99        | 96             | 38     | 6      | name.com          |
+| shadow.deals   | available | $5.99     | —             | 60             | 39     | 6      | name.com          |
 | home.deals     | resell    | —         | —             | 100            | 62     | 4      | Sav.com, LLC      |
 | forge.deals    | premium   | $82.50    | $82.50        | 62             | 39     | 5      | name.com          |
 | awake.deals    | available | $5.99     | —             | 86             | 38     | 5      | name.com          |
