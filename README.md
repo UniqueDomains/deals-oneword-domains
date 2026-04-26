@@ -1,22 +1,22 @@
-# Available .DEALS One-Word Domains (8,959)
+# Available .DEALS One-Word Domains (11,258)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C959%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C959%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C258%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .deals one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .deals one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,258 domains** on the canonical page below.
 
-**Public extract:** 8,959 rows · **Live catalog:** 8,959 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,258 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/deals`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .DEALS one-word domain
 
 ### Files
 
-- `deals.csv` — public CSV extract (8,959 rows)
-- `deals.json` — public JSON extract (8,959 rows)
+- `deals.csv` — public CSV extract (1,000 rows)
+- `deals.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| unity.deals    | available | $5.99     | $50.99        | 70             | 40     | 5      | name.com          |
-| over.deals     | resell    | $5.99     | $50.99        | 80             | 25     | 4      | Porkbun LLC       |
-| design.deals   | premium   | $250      | $250          | 108            | 49     | 6      | name.com          |
-| content.deals  | available | $5.99     | $50.99        | 138            | 39     | 7      | name.com          |
-| audio.deals    | resell    | —         | —             | 90             | 99     | 5      | GoDaddy.com, LLC  |
-| clear.deals    | premium   | $82.50    | $82.50        | 90             | 49     | 5      | name.com          |
-| gather.deals   | available | $5.99     | $50.99        | 96             | 39     | 6      | name.com          |
-| easy.deals     | resell    | —         | —             | 84             | 68     | 4      | Porkbun LLC       |
-| all.deals      | premium   | $1,000    | $1,000        | 88             | 48     | 3      | name.com          |
-| eternal.deals  | available | $5.99     | $50.99        | 92             | 39     | 7      | name.com          |
-| flow.deals     | resell    | —         | —             | 96             | 66     | 4      | NameCheap, Inc.   |
-| creative.deals | premium   | $123.75   | $123.75       | 92             | 45     | 8      | name.com          |
-| research.deals | available | $51.98    | —             | 92             | 39     | 8      | namecheap         |
-| now.deals      | resell    | —         | —             | 78             | 66     | 3      | Sav.com, LLC      |
-| star.deals     | premium   | $250      | $250          | 86             | 44     | 4      | name.com          |
-| shadow.deals   | available | $5.99     | —             | 60             | 39     | 6      | name.com          |
-| home.deals     | resell    | —         | —             | 100            | 62     | 4      | Sav.com, LLC      |
-| forge.deals    | premium   | $82.50    | $82.50        | 62             | 39     | 5      | name.com          |
-| awake.deals    | available | $5.99     | —             | 86             | 38     | 5      | name.com          |
-| mail.deals     | resell    | —         | —             | 94             | 59     | 4      | Sav.com, LLC - 32 |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| justin.deals      | available | $5.99     | —             | 58             | 38     | 7      | name.com                   |
+| robots.deals      | resell    | —         | —             | 62             | 47     | 6      | Squarespace Domains II LLC |
+| cars.deals        | premium   | $1,000    | —             | 66             | 47     | 4      | name.com                   |
+| stories.deals     | available | $5.99     | —             | 58             | 36     | 7      | name.com                   |
+| coffee.deals      | resell    | —         | —             | 76             | 43     | 6      | Dynadot Inc                |
+| jobs.deals        | premium   | $123.75   | —             | 79             | 42     | 4      | name.com                   |
+| Cats.deals        | available | $51.98    | —             | 59             | 33     | 4      | namecheap                  |
+| realestate.deals  | resell    | —         | —             | 77             | 42     | 11     | Porkbun LLC                |
+| lets.deals        | premium   | $123.75   | —             | 77             | 39     | 4      | name.com                   |
+| teams.deals       | available | $5.99     | —             | 62             | 32     | 5      | name.com                   |
+| government.deals  | resell    | —         | —             | 84             | 25     | 10     | Dynadot Inc                |
+| partners.deals    | premium   | $250      | —             | 61             | 32     | 8      | name.com                   |
+| William.deals     | available | $51.98    | —             | 74             | 31     | 7      | namecheap                  |
+| closeout.deals    | resell    | —         | —             | 76             | 6      | 9      | GoDaddy.com, LLC           |
+| solutions.deals   | premium   | $123.75   | —             | 56             | 31     | 9      | name.com                   |
+| letsgo.deals      | available | $5.99     | —             | 57             | 31     | 7      | name.com                   |
+| DeadSea.deals     | resell    | —         | —             | 50             | 6      | 8      | Wild West Domains, LLC     |
+| Jim.deals         | premium   | $92.40    | $92.40        | 78             | 28     | 3      | namecheap                  |
+| inspiration.deals | available | $5.99     | —             | 88             | 30     | 11     | name.com                   |
+| systems.deals     | premium   | $123.75   | —             | 46             | 27     | 7      | name.com                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,959-row public sample | 8,959 live domains                               |
+| 1,000-row public sample | 11,258 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEALS One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEALS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
