@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .deals one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,852 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,852 domains · **Median ask:** $14.84 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,852 domains · **Median ask:** $16.73 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/deals`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/deals`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DEALS one-word domain
 
 ### Files
 
-- `deals.csv` — public CSV extract (1,000 rows)
-- `deals.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `deals.csv`, public CSV extract (1,000 rows)
+- `deals.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| barup.deals     | available | $5.99     | —             | 82             | 2      | 6      | name.com                   |
-| forces.deals    | available | $5.99     | —             | 82             | 12     | 6      | name.com                   |
-| Apples.deals    | available | $51.98    | —             | 90             | 16     | 6      | namecheap                  |
-| hangon.deals    | available | $5.99     | —             | 82             | 6      | 7      | name.com                   |
-| pierogi.deals   | available | $5.99     | —             | 82             | 7      | 7      | name.com                   |
-| stirup.deals    | available | $5.99     | —             | 82             | 3      | 7      | name.com                   |
-| presents.deals  | available | $5.99     | —             | 80             | 9      | 8      | name.com                   |
-| Snickers.deals  | available | $51.98    | —             | 80             | 10     | 8      | namecheap                  |
-| prompts.deals   | available | $5.99     | —             | 54             | 39     | 7      | name.com                   |
-| robots.deals    | resell    | —         | —             | 62             | 47     | 6      | Squarespace Domains II LLC |
-| jobs.deals      | premium   | $123.75   | —             | 79             | 42     | 4      | name.com                   |
-| justin.deals    | available | $5.99     | —             | 58             | 38     | 7      | name.com                   |
-| coffee.deals    | resell    | —         | —             | 76             | 43     | 6      | Dynadot Inc                |
-| lets.deals      | premium   | $123.75   | —             | 77             | 39     | 4      | name.com                   |
-| Cats.deals      | available | $51.98    | —             | 59             | 33     | 4      | namecheap                  |
-| realtime.deals  | resell    | —         | —             | 76             | 28     | 9      | Dynadot Inc                |
-| partners.deals  | premium   | $250      | —             | 61             | 31     | 8      | name.com                   |
-| teams.deals     | available | $5.99     | —             | 62             | 32     | 5      | name.com                   |
-| closeout.deals  | resell    | —         | —             | 76             | 7      | 9      | GoDaddy.com, LLC           |
-| solutions.deals | premium   | $123.75   | —             | 56             | 31     | 9      | name.com                   |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| bce.deals  | available | $5.99     | —             | medium         | low    | 3      | name.com          |
+| big.deals  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
+| aid.deals  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo          |
+| cry.deals  | available | $5.99     | —             | high           | low    | 3      | name.com          |
+| buy.deals  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| ala.deals  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
+| hum.deals  | available | $5.99     | —             | high           | low    | 3      | name.com          |
+| pin.deals  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
+| and.deals  | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
+| les.deals  | available | $5.99     | —             | medium         | low    | 3      | name.com          |
+| life.deals | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.   |
+| DJI.deals  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
+| nor.deals  | available | $5.99     | —             | high           | low    | 3      | name.com          |
+| love.deals | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
+| gas.deals  | premium   | $260      | $260          | high           | low    | 3      | namecheap         |
+| NWO.deals  | available | $5.99     | —             | medium         | low    | 3      | name.com          |
+| mail.deals | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 32 |
+| hat.deals  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| oar.deals  | available | $5.99     | —             | medium         | low    | 3      | name.com          |
+| rank.deals | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection focuses only on one-word domains under the .deals extension. The set includes short keyword-led names such as Acup.deals, Trex.deals, WiFi.deals, finals.deals, and jewels.deals. For founders, the main question is whether the word is instantly clear, easy to remember, and commercially credible with .deals. For investors, the key test is whether the keyword has broad buyer relevance and enough specificity to support resale interest. With a median ask of 14.84, price is accessible, but quality still varies widely by word strength, category fit, and potential trademark friction.
+This list of .deals domain names covers thousands of available, one-word and two-word compound names like whitewater.deals, gingerbread.deals, and primarycare.deals. Most carry a low median ask near $17, making the extension approachable for testing a name before committing to a longer-term brand. Because .deals signals discounts and offers by default, these names tend to fit promo pages, coupon hubs, and niche marketplaces rather than general-purpose brands. When comparing options in this set, focus on how clearly each word pair reads at a glance and whether it still makes sense once shortened to a URL.
 
-- Prefer clear commercial words that fit .deals naturally
-- Short, familiar words are easier to remember and compare
-- Check trademark exposure on branded or distinctive terms
-- Use median ask 14.84 as a price discipline reference
+- 11,852 available one-word .deals domain names in this set
+- Median ask near $17 — low-cost entry for testing ideas
+- Everyday compound names like coffeecake and gingerbread
+- Ideal for deal, promo, and marketplace-style branding
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEALS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEALS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
