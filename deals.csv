@@ -744,7 +744,7 @@ ffd9e080-6a2a-406f-89d6-44e12819159a,from.deals,available,5.99,,high,low,4,name.
 fea9a5c6-6ace-4ab2-b239-b2220cc282ee,distinctness.deals,available,5.99,,high,low,12,name.com,,
 23645936-a593-4cd6-b38b-07171ff69561,totaled.deals,available,5.99,,high,low,7,name.com,,
 8c9ca8ed-f768-46dd-8183-664b155abdea,pin.deals,resell,,,high,low,3,"GoDaddy.com, LLC",18/11/2014 07:26,18/11/2026 07:26
-ad856421-4e28-4151-a4c6-6104ad6027ee,apply.deals,available,5.99,,high,low,5,name.com,,
+ad856421-4e28-4151-a4c6-6104ad6027ee,apply.deals,available,5.99,50.99,medium,low,5,name.com,,
 8bcd0057-452f-46bb-87ba-7e89e58f0c14,intheair.deals,available,5.99,,high,low,10,name.com,,
 fd3d9ab3-f944-49fc-9d63-4a04d93550ae,surface.deals,available,,,medium,low,7,,,
 31663230-3a0a-4195-b455-1f9ea0b9eedc,acrogenous.deals,available,5.99,50.99,low,low,10,name.com,,
