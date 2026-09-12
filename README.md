@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .deals one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,354 domains · **Median ask:** $15.25 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/deals`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | big.deals  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
 | aid.deals  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo          |
 | bce.deals  | available | $5.99     | —             | medium         | low    | 3      | name.com          |
-| buy.deals  | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.   |
+| pin.deals  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
 | ala.deals  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
 | cry.deals  | available | $5.99     | —             | high           | low    | 3      | name.com          |
-| pin.deals  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
+| life.deals | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.   |
 | and.deals  | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
 | hum.deals  | available | $5.99     | —             | high           | low    | 3      | name.com          |
-| life.deals | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.   |
+| love.deals | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
 | DJI.deals  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
 | les.deals  | available | $5.99     | —             | medium         | low    | 3      | name.com          |
-| love.deals | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
+| mail.deals | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 32 |
 | gas.deals  | premium   | $260      | $260          | high           | low    | 3      | namecheap         |
 | nor.deals  | available | $5.99     | —             | high           | low    | 3      | name.com          |
-| mail.deals | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 32 |
+| rank.deals | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
 | hat.deals  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo          |
 | NWO.deals  | available | $5.99     | —             | medium         | low    | 3      | name.com          |
-| rank.deals | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
+| sift.deals | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEALS One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEALS One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
